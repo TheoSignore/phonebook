@@ -2,22 +2,22 @@
 
 __Situation initiale:__
 
-	La seule chose faisant office d'annuaire est un fichier excel.
-	Les données de l'annuaire Active Directory de l'entreprise ne sont pas accessibles à tous.
+La seule chose faisant office d'annuaire est un fichier excel.
+Les données de l'annuaire Active Directory de l'entreprise ne sont pas accessibles à tous.
 
 __Ojectif:__
-	* Permettre à chaque collaborateur d'accéder aux coordonnées de chacun via un site intranet avec différent filtre de recherche: le pays, le site, le service, la fonction et le nom et le prénom.
-	* Permettre de récupérer un fichier excel contenant toutes les informations de la recherche
+* Permettre à chaque collaborateur d'accéder aux coordonnées de chacun via un site intranet avec différent filtre de recherche: le pays, le site, le service, la fonction et le nom et le prénom.
+* Permettre de récupérer un fichier excel contenant toutes les informations de la recherche
 
 __Ressources à disposition:__
-	* Serveur Apache2
-	* PHP
-	* Base de donnée MySQL
-	* Identifiant de connexion à l'annuaire Active Directory de l'entreprise
+* Serveur Apache2
+* PHP
+* Base de donnée MySQL
+* Identifiant de connexion à l'annuaire Active Directory de l'entreprise
 
 __Langages utilisés:__
-	* PHP (+ HTML & CSS)
-	* Javascript Asynchrone (AJAX)
+* PHP (+ HTML & CSS)
+* Javascript Asynchrone (AJAX)
 
 
 ## Fonctionnement
