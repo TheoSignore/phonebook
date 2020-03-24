@@ -1,0 +1,157 @@
+/* 
+	global style sheet
+
+	red color O&M rgb(152,1,46) 
+*/
+html {
+	font-family: 'Arial' ;
+	background-color: rgb(240, 240, 240);
+	font-size:1vw;
+}
+
+input {
+	box-sizing: border-box;
+	width: 30vw;
+	font-size:0.9vw;
+}
+
+select {
+	box-sizing: border-box;
+	width: 15vw;
+	font-size: 0.9vw;
+}
+option {
+	width: 15vw;
+	font-size: 1vw;
+}
+
+button {
+	height: auto;
+	width: auto;
+	font-size:0.8vw;
+}
+
+header {
+	width: 95%;
+	margin: auto;
+	height: auto;
+	text-align: center;
+	
+}	
+
+body {
+	position: relative;
+ 	min-height: 100vh;
+}
+
+footer {
+	position: absolute;
+	bottom: 10px;
+	width: 100%;
+	height: 2.5rem;
+}
+
+h5 {
+	text-align: center;
+}
+h1 {
+	margin: auto;
+	font-size:3vw; /*45px;*/
+	color: rgb(152,1,46);
+}
+
+img.header_logo {
+ 	height: 4vw;
+ 	float: left;
+}
+
+img.administration_logo {
+	height: 3.4vw;
+	float: right;
+}
+
+
+div.search_form {
+	width: 95%;
+	margin: auto;
+}
+
+table.table_header {
+	width: 100%;
+}
+
+td.button_region {
+	text-align: center;
+}
+
+a {text-decoration: none; color: white;}
+a:link {text-decoration: none; color: white;}
+a:visited {text-decoration: none; color: white;}
+a:focus {text-decoration: none; color: white;}
+a:hover {text-decoration: none; color: white;}
+a:active {text-decoration: none; color: white;}
+
+table.main, #dispsite {
+    border: 0.04vw black;
+	border-radius: 7px;
+	background-color: black;
+	border-spacing: 0.1vw;
+	width: 100%;
+}
+
+td.info {
+	border: 0.04vw black;
+	background-color: white;
+	padding: 0.1vw;
+}
+
+td.info2 {
+	border: 0.04vw black;
+	background-color: white;
+	padding: 0.1vw;
+	font-size: 0.8vw;
+}
+
+
+th {
+	border: 0.04vw black;
+	padding: 0.1vw;
+	color: rgb(152,1,46);
+	background-color: white;
+}
+
+#Main {
+	width: 95%;
+	margin: auto;
+	overflow-y: scroll;
+	height: 60vh;
+	border: 0.02vw solid black;
+	border-radius: 7px;
+	margin-top: 20px;
+}
+
+fieldset {
+	margin: auto;
+	width: 259px;
+	border: solid rgb(152,1,46);
+	border-radius: 5px;
+  	margin-top: 50vh; /* poussé de la moitié de hauteur de viewport */
+  	transform: translateY(-50%); /* tiré de la moitié de sa propre hauteur */
+}
+
+.faxbox {
+	display: inline-block;
+	border: 0.04vw black;
+	background-color: black;
+}
+
+td.faxtd {
+	border: 0.04vw black;
+	background-color: white;
+	padding: 0.1vw;
+}
+
+#fax {
+	width: 95%;
+	margin: auto;
+}

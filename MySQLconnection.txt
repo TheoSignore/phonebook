@@ -1,0 +1,612 @@
+
+>2019-06-26 9:46:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:00:09 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:02:39 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:03:14 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:08:44 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:15:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:15:36 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:15:40 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:15:40 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:15:55 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:15:56 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:21:12 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:21:17 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:21:20 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:21:37 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:27:40 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:29:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:32:30 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:33:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:34:10 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:35:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:35:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:35:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:35:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:36:09 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:40:00 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:40:04 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:40:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:40:11 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:42:58 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:43:01 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:43:27 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:43:47 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:43:53 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:44:01 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:44:01 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:44:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:44:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:47:33 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 10:47:45 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:07:04 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:07:30 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:07:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:07:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:07:41 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:07:41 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:08:03 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:08:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:11:12 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:22:54 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:27:33 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 11:53:07 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 13:50:16 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 13:50:16 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 13:50:21 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 13:50:21 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:06:36 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:15:03 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:15:09 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:32:52 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:43:12 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:45:44 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:46:52 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:48:24 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 14:54:19 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 15:02:51 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 15:38:51 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 16:29:31 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 16:29:31 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 16:29:41 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 16:29:41 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 16:43:35 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-26 16:59:25 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 8:22:11 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 8:22:20 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 8:25:15 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 8:25:15 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 8:25:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 8:25:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:01:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:01:30 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:27:11 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:44:17 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:44:17 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:44:26 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:44:26 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:56:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 9:56:36 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 10:01:51 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 10:01:58 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 10:01:58 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 10:02:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 10:02:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:05:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:05:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:05:29 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:05:29 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:06:52 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:07:57 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:37:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:52:48 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 12:56:29 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:20:29 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:21:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:31:39 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:31:39 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:31:46 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:31:46 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:32:11 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:34:19 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:34:48 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:34:57 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:35:31 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:35:59 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:53:14 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:53:18 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 13:54:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:15:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:15:37 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:15:48 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:15:48 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:15:54 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:16:48 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:16:48 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:41:53 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:45:03 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:46:25 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:51:21 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:51:21 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:51:27 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:51:27 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:53:46 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 14:54:41 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 15:22:46 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 15:22:46 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 15:32:38 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-27 15:32:38 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 7:47:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 7:47:41 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 7:47:56 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 7:47:56 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 7:48:04 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 7:48:04 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:31:35 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:32:39 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:32:53 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:34:01 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:35:38 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:36:18 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:36:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:37:36 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:37:52 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:38:53 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:39:40 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:41:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:41:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:41:44 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:42:53 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:43:08 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:43:33 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:21 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:22 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:23 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:23 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:23 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:24 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:24 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:24 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:33 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:44 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:50 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 8:44:56 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:00:12 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:12:34 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:13:04 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:14:44 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:27:05 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:27:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:27:59 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:28:33 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:50:42 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 9:51:28 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:29:38 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:33:25 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:35:26 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:35:58 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:36:17 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:39:13 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:46:38 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:49:56 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:52:06 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:52:25 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 10:52:36 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 12:59:03 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 12:59:03 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 12:59:09 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 12:59:09 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 13:14:26 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 13:22:35 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 13:53:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 13:53:32 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 13:53:37 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 13:53:37 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
+
+>2019-06-28 14:08:00 - MySQLconnection.php - script to connect "Phonebook MySQL database".
+Connected to MySql database.
