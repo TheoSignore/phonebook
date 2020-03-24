@@ -26,7 +26,7 @@ Un script PHP récupère les informations dans l'Active Directory de l'entrepris
 
 Le site web utilise ensuite l'AJAX afin de transmettre des requêtes XHTTP à des scripts PHP présent sur le serveur, qui traitent et renvoi les informations, permettant un affichage dynamique sans recharger de page.
 
-![schéma de fonctionnement](https://github.com/TheoSignore/phonebook/documents/schema.png)
+![schéma de fonctionnement](https://github.com/TheoSignore/phonebook/blob/master/documents/schema.png)
 
 ## Fonctionnalité
 * Connexion administrateur
